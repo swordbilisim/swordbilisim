@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="290" viewBox="0 0 780 290"><defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0e1830"/><stop offset="1" stop-color="#1b2046"/></linearGradient>
+ <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ab8afa"/><stop offset="1" stop-color="#45c8f4"/></linearGradient>
+ <radialGradient id="g"><stop stop-color="#555be1" stop-opacity=".26"/><stop offset="1" stop-color="#555be1" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="1.15" fill="#879de0" opacity=".19"/></pattern>
+ </defs>
+ <rect x="1" y="1" width="778" height="288" rx="26" fill="url(#bg)" stroke="#445179" stroke-opacity=".7" stroke-width="2"/>
+ <circle cx="660" cy="124" r="222" fill="url(#g)"/><rect x="450" y="1" width="330" height="280" rx="24" fill="url(#dots)"/>
+ <path d="M442 0l160 290M560 0l160 290" fill="none" stroke="#495e96" stroke-opacity=".12" stroke-width="3"/>
+ <rect x="34" y="29" width="158" height="29" rx="14" fill="#2a285b" stroke="#6257ab"/>
+ <text x="48" y="49" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#c2b4ff" font-weight="700" letter-spacing="1">PLATFORM / 02</text>
+ <rect x="44" y="96" width="74" height="67" rx="14" fill="#131d3a" stroke="url(#stroke)" stroke-width="3"/><rect x="55" y="108" width="52" height="14" rx="5" fill="#696ad6"/><rect x="55" y="132" width="22" height="20" rx="4" fill="#3d9ddf"/><rect x="83" y="132" width="24" height="20" rx="4" fill="#5e67a5"/>
+ <text x="144" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="34" fill="#f4f5ff" font-weight="750" letter-spacing="0.8">SWORD PLATFORM</text>
+ <text x="145" y="155" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a7b8e8" font-weight="650" letter-spacing="1">PRODUKTÖKOSYSTEM</text>
+ <text x="36" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#a1b1d6" font-weight="430" letter-spacing="0">Vernetzte Software und Verwaltung</text>
+ <path d="M35 251H742" stroke="#55639d" stroke-opacity=".4"/>
+ <text x="37" y="273" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#6ee2f6" font-weight="750" letter-spacing="1.1">ENTDECKEN   →</text>
+ <circle cx="714" cy="38" r="6" fill="#59d5e8" opacity=".8"/><circle cx="735" cy="38" r="6" fill="#8d74e2" opacity=".8"/>
+ </svg>

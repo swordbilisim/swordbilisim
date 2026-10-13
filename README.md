@@ -1,89 +1,105 @@
+<!--
+  Sword Bilişim — Premium Developer profile README
+  Language: English
+  Rendered by GitHub Flavored Markdown; language navigation uses regular links.
+  Safe to edit. Do not remove ./assets paths unless files are moved.
+-->
+
 <div align="center">
 
-<img src="./assets/banner.png" alt="Sword Bilişim — Software Engineering and Cybersecurity" width="100%" />
+<a href="https://swordbilisim.com"><img src="./assets/banner.png" alt="Sword Bilişim — software engineering and cybersecurity banner" width="100%" /></a>
 
 <br />
 
-[![Website](https://img.shields.io/badge/Website-0B1120?style=for-the-badge&logo=googlechrome&logoColor=white)](https://swordbilisim.com)
-[![Scanner](https://img.shields.io/badge/Scanner-4338CA?style=for-the-badge&logo=shield&logoColor=white)](https://scanner.swordbilisim.com)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swordbilisim)
+<sub><b>LANGUAGE / DİL / SPRACHE / LANGUE / IDIOMA</b></sub>
+<br />
+<a href="./README.md">🇬🇧 <b>EN</b></a> &nbsp; · &nbsp; <a href="./README.tr.md">🇹🇷 TR</a> &nbsp; · &nbsp; <a href="./README.de.md">🇩🇪 DE</a> &nbsp; · &nbsp; <a href="./README.fr.md">🇫🇷 FR</a> &nbsp; · &nbsp; <a href="./README.es.md">🇪🇸 ES</a>
 
-### Engineering software with security at its core.
+<br /><br />
+<img src="./assets/roles.gif" alt="Software engineering, cybersecurity and product development" width="680" />
 
-**Software Development** · **Cybersecurity** · **Automation** · **Digital Products**
+<h3>Software engineered with security in mind.</h3>
+<p>Sword Bilişim builds digital products, security-oriented tools and reliable software experiences. We bring product design, engineering and structured workflows together.</p>
+
+<p>
+<a href="https://swordbilisim.com"><img src="./assets/button-website.svg" alt="Sword Bilişim website" width="190" /></a>
+<a href="https://scanner.swordbilisim.com"><img src="./assets/button-scanner.svg" alt="Scanner product" width="190" /></a>
+<a href="https://github.com/swordbilisim?tab=repositories"><img src="./assets/button-github.svg" alt="GitHub repositories" width="190" /></a>
+</p>
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
 </div>
 
-## About Sword Bilişim
+<a id="overview"></a>
 
-Sword Bilişim focuses on modern software experiences, security-oriented tools, and scalable digital systems. We build products with an emphasis on clarity, maintainability, and dependable workflows.
+## At a glance
 
-Our work spans web platforms, desktop software, infrastructure, and cybersecurity-focused product development.
+We approach software as a complete system: clear product interfaces, maintainable services, thoughtful access controls and dependable user experiences.
 
-## Products & Initiatives
+<a id="products"></a>
+
+## Featured products
+
+Product initiatives and selected work. Some projects are developed privately and are not represented by public GitHub repositories.
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### Scanner
-
-A security-oriented review and inspection product for gaming communities and independently managed servers. Designed to help authorized reviewers examine system artifacts and evidence in an organized workflow.
-
-**Focus:** Inspection workflows · Evidence organization · Review experience
-
-[Explore Scanner →](https://scanner.swordbilisim.com)
-
-</td>
-<td width="50%" valign="top">
-
-### Sword Platform
-
-A connected platform initiative bringing together product experiences, management interfaces, and supporting services.
-
-**Focus:** Platform architecture · Administration · Product operations
-
-[Visit Sword Bilişim →](https://swordbilisim.com)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://scanner.swordbilisim.com"><img src="./assets/en/scanner.svg" alt="Scanner product visual" width="100%" /></a>
+      <p>A human-led inspection experience designed to help authorized reviewers organize and assess relevant system information for community-operated game servers. Not an automatic anti-cheat enforcement system.</p>
+      <p><a href="https://scanner.swordbilisim.com"><strong>Explore product →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://swordbilisim.com"><img src="./assets/en/platform.svg" alt="Sword Platform initiative visual" width="100%" /></a>
+      <p>The broader Sword Bilişim platform initiative, bringing together product experiences, administrative controls and services under a consistent software architecture.</p>
+      <p><a href="https://swordbilisim.com"><strong>Visit website →</strong></a></p>
+    </td>
+  </tr>
 </table>
 
-## Public Repository
+### Public on GitHub
 
-- [**Steam-family-view-unlocker**](https://github.com/swordbilisim/Steam-family-view-unlocker) — public repository on this account. Consult its repository documentation for details.
+[**Steam-family-view-unlocker**](https://github.com/swordbilisim/Steam-family-view-unlocker) — A public utility repository from this account. Its repository page provides the project-specific information.
 
-## Focus Areas
+<a id="focus"></a>
 
-<div align="center">
+## Areas of focus
 
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-111827?style=flat-square&labelColor=312E81&color=111827)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=flat-square&labelColor=4338CA&color=111827)
-![Web Platforms](https://img.shields.io/badge/Web%20Platforms-111827?style=flat-square&labelColor=4F46E5&color=111827)
-![Desktop Tools](https://img.shields.io/badge/Desktop%20Tools-111827?style=flat-square&labelColor=6366F1&color=111827)
-![Automation](https://img.shields.io/badge/Automation-111827?style=flat-square&labelColor=2563EB&color=111827)
-
-</div>
-
-## GitHub Activity
+Our product work spans interconnected technical disciplines. These are focus areas, not a claim that every technology is used in every repository.
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=swordbilisim&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=CBD5E1&icon_color=38BDF8" alt="GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swordbilisim&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=CBD5E1" alt="Public repository languages" height="165" />
-
+  <img src="./assets/en/focus.svg" alt="Sword Bilişim focus areas" width="100%" />
 </div>
 
-> GitHub statistics are generated by a third-party service and may be unavailable due to rate limits. They reflect accessible repository activity, not all development work.
+<a id="activity"></a>
+
+## GitHub activity
+
+<details>
+<summary><b>Show live GitHub cards</b></summary>
+<br />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=swordbilisim&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1020&amp;title_color=A78BFA&amp;text_color=CFD9F1&amp;icon_color=38BDF8" alt="GitHub activity stats" height="168" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swordbilisim&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1020&amp;title_color=A78BFA&amp;text_color=CFD9F1" alt="GitHub public repository languages" height="168" />
+</div>
+<p><sub>Optional live cards from third-party services. They may be unavailable due to service limits, and show only activity visible on GitHub.</sub></p>
+</details>
+
+<a id="links"></a>
+
+## Connect with us
+
+Explore the company, learn about Scanner or browse public work.
+
+**[Main website](https://swordbilisim.com)** · **[Scanner product](https://scanner.swordbilisim.com)** · **[Public repositories](https://github.com/swordbilisim?tab=repositories)**
 
 <div align="center">
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-**Built with purpose. Designed for trust.**
-
-[Website](https://swordbilisim.com) · [Scanner](https://scanner.swordbilisim.com) · [GitHub](https://github.com/swordbilisim)
+<sub><strong>Designing reliable software. Building with purpose.</strong></sub>
+<br />
+<sub>© Sword Bilişim · <a href="https://github.com/swordbilisim">@swordbilisim</a></sub>
 
 </div>
